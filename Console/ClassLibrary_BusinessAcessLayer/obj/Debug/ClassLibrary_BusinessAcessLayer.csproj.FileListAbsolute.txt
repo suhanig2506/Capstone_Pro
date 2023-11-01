@@ -1,0 +1,11 @@
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\bin\Debug\ClassLibrary_BusinessAcessLayer.dll
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\bin\Debug\ClassLibrary_BusinessAcessLayer.pdb
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\bin\Debug\ClassLibrary_DataAceessLayer.dll
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\bin\Debug\Final_Pro.dll
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\bin\Debug\ClassLibrary_DataAceessLayer.pdb
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\bin\Debug\Final_Pro.pdb
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\obj\Debug\ClassLibrary_BusinessAcessLayer.csproj.AssemblyReference.cache
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\obj\Debug\ClassLibrary_BusinessAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\obj\Debug\ClassLibrary_BusinessAcessLayer.csproj.CopyComplete
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\obj\Debug\ClassLibrary_BusinessAcessLayer.dll
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_BusinessAcessLayer\obj\Debug\ClassLibrary_BusinessAcessLayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\suhanig\Desktop\c#_Code\Final_Pro\bin\Debug\Final_Pro.dll
+C:\Users\suhanig\Desktop\c#_Code\Final_Pro\bin\Debug\Final_Pro.pdb
+C:\Users\suhanig\Desktop\c#_Code\Final_Pro\obj\Debug\Final_Pro.csproj.AssemblyReference.cache
+C:\Users\suhanig\Desktop\c#_Code\Final_Pro\obj\Debug\Final_Pro.csproj.CoreCompileInputs.cache
+C:\Users\suhanig\Desktop\c#_Code\Final_Pro\obj\Debug\Final_Pro.dll
+C:\Users\suhanig\Desktop\c#_Code\Final_Pro\obj\Debug\Final_Pro.pdb

@@ -1,0 +1,9 @@
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_DataAceessLayer\bin\Debug\ClassLibrary_DataAceessLayer.dll
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_DataAceessLayer\bin\Debug\ClassLibrary_DataAceessLayer.pdb
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_DataAceessLayer\bin\Debug\Final_Pro.dll
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_DataAceessLayer\bin\Debug\Final_Pro.pdb
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_DataAceessLayer\obj\Debug\ClassLibrary_DataAceessLayer.csproj.AssemblyReference.cache
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_DataAceessLayer\obj\Debug\ClassLibrary_DataAceessLayer.csproj.CoreCompileInputs.cache
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_DataAceessLayer\obj\Debug\ClassLibrary_DataAceessLayer.csproj.CopyComplete
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_DataAceessLayer\obj\Debug\ClassLibrary_DataAceessLayer.dll
+C:\Users\suhanig\Desktop\c#_Code\ClassLibrary_DataAceessLayer\obj\Debug\ClassLibrary_DataAceessLayer.pdb

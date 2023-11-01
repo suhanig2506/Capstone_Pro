@@ -1,0 +1,183 @@
+<mxfile host="app.diagrams.net" modified="2023-10-16T09:30:10.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="x9EtewGwZXIXtMkgWn4m" version="22.0.4" type="device">
+  <diagram name="Page-1" id="u_eklr8202sRNOk4sMeT">
+    <mxGraphModel dx="780" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="Dq3LljCMEOfm2mNp-Qjc-1" target="Dq3LljCMEOfm2mNp-Qjc-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="260" as="sourcePoint" />
+            <mxPoint x="430" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-5" value="Main Menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="365" y="50" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dq3LljCMEOfm2mNp-Qjc-6" target="Dq3LljCMEOfm2mNp-Qjc-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="240" />
+              <mxPoint x="220" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Dq3LljCMEOfm2mNp-Qjc-6" target="Dq3LljCMEOfm2mNp-Qjc-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="200" />
+              <mxPoint x="400" y="240" />
+              <mxPoint x="580" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-6" value="1.manage employee&lt;br&gt;2.travel request&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="90" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dq3LljCMEOfm2mNp-Qjc-8" target="vRnIK9w-JMJBcrTzYsUS-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="480" />
+              <mxPoint x="250" y="500" />
+              <mxPoint x="55" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Dq3LljCMEOfm2mNp-Qjc-8" target="vRnIK9w-JMJBcrTzYsUS-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="480" />
+              <mxPoint x="250" y="500" />
+              <mxPoint x="540" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Dq3LljCMEOfm2mNp-Qjc-9" target="vRnIK9w-JMJBcrTzYsUS-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.007;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Dq3LljCMEOfm2mNp-Qjc-8" target="Dq3LljCMEOfm2mNp-Qjc-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-11" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.01;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.013;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Dq3LljCMEOfm2mNp-Qjc-9" target="Dq3LljCMEOfm2mNp-Qjc-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-12" value="Manage Employee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="280" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-13" value="Travel Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-14" value="1.Add Employee&lt;br&gt;2.Edit Employee&lt;br&gt;3.Delete Employee&lt;br&gt;4.View Employee&lt;br&gt;5.Go Back" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="320" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Dq3LljCMEOfm2mNp-Qjc-15" value="1.raise&amp;nbsp;&lt;br&gt;travel request&lt;br&gt;2.view travel request&lt;br&gt;3.delere travel request&lt;br&gt;4.approve travel request&lt;br&gt;5.confirm booking&lt;br&gt;6.go back&lt;br&gt;7.view close req&lt;br&gt;8.view open req&lt;br&gt;9.view approved req&lt;br&gt;10.view not approved" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="310" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="160" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="480" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-6" value="add Empoyee&lt;br&gt;1.select emp_id&lt;br&gt;2.enter F_name&lt;br&gt;3.enter L_name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="520" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-9" value="Edit Employee&lt;br&gt;1.Select emp_id&lt;br&gt;2.Edit F_name&lt;br&gt;3.Edit L_name&lt;br&gt;4.edit Contact&lt;br&gt;5.Edit Address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="540" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-11" value="Delete Employee&lt;br&gt;1.select emp_id&lt;br&gt;2.select F_name&lt;br&gt;3.Select L_name&lt;br&gt;4.Select Contact&lt;br&gt;5.Select Address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="535" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-12" value="View Employee&lt;br&gt;1.select emp_id&lt;br&gt;and show all info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="535" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.594;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="vRnIK9w-JMJBcrTzYsUS-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="500" as="sourcePoint" />
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vRnIK9w-JMJBcrTzYsUS-3" target="vRnIK9w-JMJBcrTzYsUS-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="vRnIK9w-JMJBcrTzYsUS-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="500" as="sourcePoint" />
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="680" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="840" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1285" y="515" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="vRnIK9w-JMJBcrTzYsUS-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="500" as="sourcePoint" />
+            <mxPoint x="1020" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="vRnIK9w-JMJBcrTzYsUS-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="500" as="sourcePoint" />
+            <mxPoint x="1020" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="vRnIK9w-JMJBcrTzYsUS-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="500" as="sourcePoint" />
+            <mxPoint x="1020" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-28" value="Raise travel req&lt;br&gt;1.auto gen id&lt;br&gt;2.select emp_id&lt;br&gt;3.enter from location&lt;br&gt;4.enter to location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="535" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-29" value="view travel request&lt;br&gt;1.view all req&lt;br&gt;2.select req id to view&lt;br&gt;3.view pending&lt;br&gt;4.view approved req" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="850" y="540" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-30" value="Delete Travel request&lt;br&gt;1.delete by id&lt;br&gt;2.delete by name&lt;br&gt;3.delete all info by selecting id&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="535" width="90" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-31" value="Confirm Booking&lt;br&gt;1.Select req id to confirm&lt;br&gt;2.changed status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="520" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vRnIK9w-JMJBcrTzYsUS-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRnIK9w-JMJBcrTzYsUS-32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="530" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
