@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TravelBooking_NewMVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TravelBooking_NewMVC.styles.css" asp-append-version="true" />
+    <style>
+        .logo {
+            height: 50px;
+            width: 30px;
+        }
+
+        .left1{
+            height: 450px;
+            width: 45%;
+            margin-top: -50px;
+            /* border:2px dotted black; */
+            flex-direction: column;
+            text-align: center;
+        }
+
+       /*  .btn {
+            background-color: blue;
+            color: white;
+            font-size: 16px;
+            border-radius: 5px;
+        }
+
+            .btn:hover {
+                background-color: white;
+                border: 2px solid blue;
+                color: blue;
+            } */
+
+        
+    </style>
+    
+   
+</head>
+<body class="body1">
+     <header>
+         
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="logo">
+                <img src="~/css/travel_logo.png" alt="Logo">
+            </div>
+            <div class="container-fluid" style="margin-left:120px">
+                <a class="navbar navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TravelBooking_NewMVC</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Employee" asp-action="Index">Employee</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="TravelRequest" asp-action="Index">Travel Request</a>
+                        </li>
+                    </ul>
+                </div>
+                
+            </div>
+        </nav>
+        @* <div class="left1" style="margin-top:170px;color:blue">
+            <h1>Book Your</h1>
+            <h1>Flight</h1>
+            <br>
+            <p style="color:black">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste vero quos magni,
+                laboriosam totam officiis labore asperiores ea repudiandae quasi
+                quas ex ipsam nostrum minus, quia et, doloribus accusantium ducimus!
+            </p>
+            <button type="button" class="btn">Get Started!</button> 
+        </div> 
+         *@
+    
+    </header> 
+    
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - TravelBooking_NewMVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

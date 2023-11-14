@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Employee>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br />
+<br />
+<br />
+<Centre><h2 style="color:blue">List Of Employees</h2></Centre>
+<br/>
+<button class="btn btn-outline-success">
+    <a asp-action="AddEmployee">Add Employee</a>
+</button>
+<br/>
+<br/>
+@if (Model != null)
+{
+    <div>
+        <table class=" table table-striped">
+            <tr>
+                <td><h4>Employee Id </h4></td>
+                <td>Employee First Name </td>
+                <td>Employee Last Name </td>
+                <td>Employee DOB</td>
+                <td>Employee Address</td>
+                <td>Employee Contact</td>
+                <td>Delete</td>
+                <td>Update</td>
+
+            </tr>
+
+            @foreach (var m in Model)
+            {
+                <tr>
+                    <td>@m.EmpId</td>
+                    <td>@m.EmpFirstName</td>
+                    <td>@m.EmpLastName</td>
+                    <td>@m.EmpDob</td>
+                    <td>@m.EmpAddress</td>
+                    <td>@m.EmpContact</td>
+                    @* @if (m.Cat.CatId != null)
+                    {
+                        <td>@m.Cat.CatCode</td>
+                    }
+                    else
+                    {
+                        <td>NotAssigned</td>
+                    } *@
+                    <td>
+                        <button class="btn btn-outline-danger">
+                            <a asp-action="DeleteEmployee" asp-route-id=@m.EmpId>Delete Employee</a>
+                        </button>
+                    </td>
+                    <td>
+                        <button class="btn btn-outline-primary">
+                            <a asp-action="UpdateEmployee" asp-route-id=@m.EmpId>Update Employee</a>
+                        </button>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+}
+

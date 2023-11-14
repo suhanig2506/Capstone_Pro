@@ -1,0 +1,44 @@
+﻿@model Employee
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<h2 style="color:blue">Update Employee</h2>
+<div>
+    <form method="post">
+        @*  <div class="form-group">
+        <label for="EmpId">Employee Id:</label>
+        @Html.EditorFor(m=>m.EmpId)
+        </div> *@
+        <div class="form-control">
+            <label for="EmpFirstName">Employee FName:</label>
+            @Html.EditorFor(m=>m.EmpFirstName)
+        </div>
+        <div class="form-control">
+            <label for="EmpLastName">Employee LName:</label>
+            @Html.EditorFor(m=>m.EmpLastName)
+        </div>
+        <div class="form-control">
+            <label for="EmpDob">Employee DOB:</label>
+            @Html.EditorFor(m=>m.EmpDob)
+        </div>
+        <div class="form-control">
+            <label for="EmpAddress">Employee Address:</label>
+            @Html.EditorFor(m=>m.EmpAddress)
+        </div>
+        <div class="form-control">
+            <label for="EmpContact">Employee Contact:</label>
+            @Html.EditorFor(m=>m.EmpContact)
+        </div>
+
+        <div>
+            <button type="submit" class="btn btn-primary">Update</button>
+        </div>
+
+    </form>
+</div>
+

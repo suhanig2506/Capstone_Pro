@@ -1,0 +1,47 @@
+﻿@model TravelRequest
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<h2 style="color:blue">Raise a New Travel Request</h2>
+<br />
+<div>
+    <form method="post">
+        <div class="form-control">
+            <label for="EmpId">EmployeeId:</label>
+            <select asp-items=@ViewBag.Employees asp-for="EmpId">
+            <option value="">Select EmployeeId</option>
+        </select>
+        </div>
+        <div class="form-control">
+            <label for="Location From">Location From:</label>
+            <input asp-for="LocFrom" class="form-control" name="LocFrom" />
+            <span asp-validation-for="LocFrom" style="color:red; font-size:small"></span>
+        </div>
+        <div class="form-control">
+            <label for="Location To">Location To:</label>
+            <input asp-for="LocTo" class="form-control" name="LocTo" />
+            <span asp-validation-for="LocTo" style="color:red; font-size:small"></span>
+        </div>
+        <div class="form-control">
+            <label for="RequestDate">RequestDate:</label>
+            <input asp-for="ReqDate" class="form-control" name="ReqDate" />
+            <span asp-validation-for="ReqDate" style="color:red; font-size:small"></span>
+        </div>
+<br />
+<div asp-validation-summary="All" style="color:red; font-size:small"></div>
+<hr />
+<button type="submit">Submit</button>
+</form>
+</div>
+ 
+@section Scripts{
+    @{
+        Html.RenderPartial("_ValidationScriptsPartial");
+    }
+}

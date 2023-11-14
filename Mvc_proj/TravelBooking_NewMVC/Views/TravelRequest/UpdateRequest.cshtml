@@ -1,0 +1,31 @@
+﻿@model TravelRequest
+<br />
+<br />
+<br />
+<br />
+<br />
+<h2>Update Travel Request</h2>
+<div>
+    <form method="post">
+        
+        <div class="form-control">
+            <label for="LocFrom">Location From:</label>
+            @Html.EditorFor(m=>m.LocFrom)
+        </div>
+        <div class="form-control">
+            <label for="LocTo">Location To:</label>
+            @Html.EditorFor(m=>m.LocTo)
+        </div>
+        <div class="form-control">
+            <label for="ReqDate">Request Date:</label>
+            @Html.EditorFor(m=>m.ReqDate)
+        </div>
+        
+
+        <div>
+            <button type="submit" class="btn btn-primary">Update</button>
+        </div>
+
+    </form>
+</div>
+
